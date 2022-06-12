@@ -1,4 +1,3 @@
-# **zoo_lints** flutter package
 
 [![zoocityboy][logo_white]][zoocityboy_link_dark]
 [![zoocityboy][logo_black]][zoocityboy_link_light]
@@ -8,7 +7,7 @@ Developed by 🦏 [zoocityboy][zoocityboy_link]
 [![ci][ci_badge]][ci_badge_link]
 [![pub package][pub_badge]][pub_badge_link]
 [![License: MIT][license_badge]][license_badge_link]
-[![style: very good analysis][badge]][badge_link]
+[![style: zoo lints][badge]][badge_link]
 
 ---
 
@@ -75,7 +74,7 @@ To indicate your project is using `zoo_lints` →
 [badge_link]: https://pub.dev/packages/zoo_lints
 [license_badge]: https://img.shields.io/badge/license-MIT-green.svg
 [license_badge_link]: https://opensource.org/licenses/MIT
-[logo_black]:https://raw.githubusercontent.com/zoocityboy/zoo_brand/main/styles/README/zoocityboy_dark.png#gh-dark-mode-only
+[logo_black]:https://raw.githubusercontent.com/zoocityboy/zoo_brand/main/styles/README/zoocityboy_dark.png#gh-light-mode-only
 [logo_white]: https://raw.githubusercontent.com/zoocityboy/zoo_brand/main/styles/README/zoocityboy_light.png#gh-dark-mode-only
 [zoo_lints_link]: https://github.com/zoocityboy/zoo_lints/
 [vgv_analysis_link]: https://github.com/VeryGoodOpenSource/very_good_analysis
