@@ -77,9 +77,9 @@ To indicate your project is using `zoo_lints` →
 [logo_black]:https://raw.githubusercontent.com/zoocityboy/zoo_brand/main/styles/README/zoocityboy_dark.png#gh-light-mode-only
 [logo_white]: https://raw.githubusercontent.com/zoocityboy/zoo_brand/main/styles/README/zoocityboy_light.png#gh-dark-mode-only
 [zoo_lints_link]: https://github.com/zoocityboy/zoo_lints/
-[vgv_analysis_link]: https://github.com/VeryGoodOpenSource/very_good_analysis
 [pub_badge]: https://img.shields.io/pub/v/zoo_lints.svg
 [pub_badge_link]: https://pub.dartlang.org/packages/zoo_lints
 [zoocityboy_link]: https://github.com/zoocityboy
 [zoocityboy_link_dark]: https://github.com/zoocityboy#gh-dark-mode-only
 [zoocityboy_link_light]: https://github.com/zoocityboy#gh-light-mode-only
+[vgv_analysis_link]: https://github.com/VeryGoodOpenSource/very_good_analysis
