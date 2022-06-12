@@ -12,9 +12,9 @@ Developed by 🦏 [zoocityboy][zoocityboy_link]
 
 ---
 
-This package provides lint rules for Dart and Flutter which are used at [zoocityboy projects][zoocityboy_link]. For more information, see the [complete list of options][analysis_options_yaml].
+This package provides lint rules for Dart and Flutter which are used at [zoocityboy's projects][zoocityboy_link]. For more information, see the [complete list of options][analysis_options_yaml].
 
-**Note**: This package is based on [zoo_lints][zoo_lints_link].
+**Note**: This package is based on [very_good_analysis][vgv_analysis_link].
 
 ## Usage
 
@@ -62,22 +62,23 @@ linter:
 ## Badge
 
 To indicate your project is using `zoo_lints` →
-[![style: very good analysis][badge]][badge_link]
+[![style: zoo lints][badge]][badge_link]
 
 ```md
-[![style: very good analysis](https://img.shields.io/badge/style-zoo_lints-B22C89.svg)](https://pub.dev/packages/zoo_lints)
+[![style: zoo lints](https://img.shields.io/badge/style-zoo_lints-3EB489.svg)](https://pub.dev/packages/zoo_lints)
 ```
 
 [analysis_options_yaml]: https://github.com/zoocityboy/zoo_lints/blob/main/analysis_options.yaml
 [ci_badge]: https://github.com/zoocityboy/zoo_lints/workflows/ci/badge.svg
-[ci_badge_link]: https://github.com/VeryGoodOpenSource/zoo_lints/actions
-[badge]: https://img.shields.io/badge/style-zoo_lints-B22C89.svg
+[ci_badge_link]: https://github.com/zoocityboy/zoo_lints/actions
+[badge]: https://img.shields.io/badge/style-zoo_lints-3EB489.svg
 [badge_link]: https://pub.dev/packages/zoo_lints
-[license_badge]: https://img.shields.io/badge/license-MIT-blue.svg
+[license_badge]: https://img.shields.io/badge/license-MIT-green.svg
 [license_badge_link]: https://opensource.org/licenses/MIT
 [logo_black]:https://raw.githubusercontent.com/zoocityboy/zoo_brand/main/styles/README/zoocityboy_dark.png#gh-dark-mode-only
 [logo_white]: https://raw.githubusercontent.com/zoocityboy/zoo_brand/main/styles/README/zoocityboy_light.png#gh-dark-mode-only
 [zoo_lints_link]: https://github.com/zoocityboy/zoo_lints/
+[vgv_analysis_link]: https://github.com/VeryGoodOpenSource/very_good_analysis
 [pub_badge]: https://img.shields.io/pub/v/zoo_lints.svg
 [pub_badge_link]: https://pub.dartlang.org/packages/zoo_lints
 [zoocityboy_link]: https://github.com/zoocityboy
