@@ -5,6 +5,6 @@ tail -n +2 "$FILE" > "$FILE.tmp" && mv "$FILE" "$FILE.back" && mv "$FILE.tmp" "$
 echo "Test with pana"
 pana .
 echo "Publish to pub.dev"
-dart pub publish --dry-run
+dart pub publish
 echo "Restore readme.md"
 mv "$FILE.back" "$FILE"
