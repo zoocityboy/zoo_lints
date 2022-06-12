@@ -1,0 +1,15 @@
+include: package:very_good_analysis/analysis_options.3.0.0.yaml
+analyzer: 
+  exclude:
+    - lib/generated/**/*.dart
+    - lib/**/*.g.dart
+    - lib/**/*.freezed.dart
+    
+linter:
+  rules:
+    avoid_print: true
+    prefer_single_quotes: true  
+    avoid_relative_lib_imports: false
+    prefer_relative_imports: true
+    always_use_package_imports: false
+    lines_longer_than_80_chars: false
