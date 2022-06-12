@@ -1,4 +1,3 @@
-
 [![zoocityboy][logo_white]][zoocityboy_link_dark]
 [![zoocityboy][logo_black]][zoocityboy_link_light]
 
