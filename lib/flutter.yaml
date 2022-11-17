@@ -13,3 +13,4 @@ linter:
     prefer_relative_imports: true
     always_use_package_imports: false
     lines_longer_than_80_chars: false
+    public_member_api_docs: false
