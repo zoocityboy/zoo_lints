@@ -1,3 +1,5 @@
+## 2.0.1
+- chore: bump version
 ## 2.0.0
 - **BREAKING** refactor: remove deprecated `unawaited` (use `unawaited` from `dart:async` instead).
 - feat: additional lint rules (Based on [vgv](https://github.com/VeryGoodOpenSource/very_good_analysis)):
