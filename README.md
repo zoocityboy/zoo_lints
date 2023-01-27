@@ -21,11 +21,11 @@ To use the lints, add a dependency in your `pubspec.yaml`:
 ```yaml
 # If you use `package:zoo_lints/zoo_lints.dart`, add a normal dependency.
 dependencies:
-  zoo_lints: ^1.0.0
+  zoo_lints: ^2.0.0
 
 # Or, if you just want `analysis_options.yaml`, it can be a dev dependency.
 dev_dependencies:
-  zoo_lints: ^1.0.0
+  zoo_lints: ^2.0.0
 ```
 
 Then, add an include in `analysis_options.yaml`:
