@@ -1,2 +1,10 @@
+.DS_Store
 README.md.back
 README.md.tmp
+./github
+./dart_tool
+./example
+.gitignore
+.packages
+*.iml
+pubdev_publish.sh

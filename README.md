@@ -37,7 +37,7 @@ include: package:zoo_lints/flutter.yaml
 This will ensure you always use the latest version of the lints. If you wish to restrict the lint version, specify a version of `analysis_options.yaml` instead:
 
 ```yaml
-include: package:zoo_lints/flutter.yaml
+include: package:zoo_lints/analysis_options.2.0.0.yaml
 ```
 
 ## Suppressing Lints
