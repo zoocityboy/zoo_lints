@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/zoocityboy/zoo_lints/main/assets/zoo_lints.webp "Resoure")
+![alt text](https://raw.githubusercontent.com/zoocityboy/zoo_lints/main/assets/zoo_lints.png "Resoure")
 Developed by 🦏 [zoocityboy][zoocityboy_link]
 
 
