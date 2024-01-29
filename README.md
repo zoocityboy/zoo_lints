@@ -1,7 +1,6 @@
-[![zoocityboy][logo_white]][zoocityboy_link_dark]
-[![zoocityboy][logo_black]][zoocityboy_link_light]
-
+![alt text](https://raw.githubusercontent.com/zoocityboy/zoo_lints/main/assets/zoo_lints.webp "Resoure")
 Developed by 🦏 [zoocityboy][zoocityboy_link]
+
 
 [![ci][ci_badge]][ci_badge_link]
 [![pub package][pub_badge]][pub_badge_link]
