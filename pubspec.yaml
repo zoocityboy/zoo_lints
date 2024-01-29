@@ -9,7 +9,7 @@ documentation: https://github.com/zoocityboy/zoo_lints
 topics: [lints, analyzer, analysis, zoo]
 
 screenshots:
-  - description: Cover
+  - description: Cover image for the zoo_lints package
     path: assets/zoo_lints.png
 
 environment:
