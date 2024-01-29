@@ -1,7 +1,7 @@
 name: zoo_lints
 description: Recommended lints for Flutter apps, packages, and plugins to
   encourage good coding practices.
-version: 3.0.0
+version: 3.1.0
 repository: https://github.com/zoocityboy/zoo_lints
 issue_tracker: https://github.com/zoocityboy/zoo_lints/issues
 homepage: https://github.com/zoocityboy/zoo_lints
@@ -11,4 +11,4 @@ environment:
   sdk: ">=2.18.0 <4.0.0"
 
 dependencies:
-  very_good_analysis: ^5.0.0
+  very_good_analysis: ^5.1.0
