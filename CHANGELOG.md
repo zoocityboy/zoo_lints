@@ -1,3 +1,5 @@
+## 3.1.0+1
+- docs: improve readme, pubspec.
 ## 3.1.0
 - **BREAKING** bump version to very_good_analysis 5.1.0
 ## 3.0.0
