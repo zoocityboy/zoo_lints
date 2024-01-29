@@ -1,13 +1,12 @@
 ![alt text](https://raw.githubusercontent.com/zoocityboy/zoo_lints/main/assets/zoo_lints.png "Resoure")
 Developed by 🦏 [zoocityboy][zoocityboy_link]
-
+# ZOO LINTS 
 
 [![ci][ci_badge]][ci_badge_link]
 [![pub package][pub_badge]][pub_badge_link]
 [![License: MIT][license_badge]][license_badge_link]
 [![style: zoo lints][badge]][badge_link]
 
----
 
 This package provides lint rules for Dart and Flutter which are used at [zoocityboy's projects][zoocityboy_link]. For more information, see the [complete list of options][analysis_options_yaml].
 
